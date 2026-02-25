@@ -8,4 +8,3 @@ Usuários inativos por mais de 90 dias devem ser marcados como inativos.
 
 ### RN02 — Limite de tentativas de login
 Após 5 tentativas inválidas, a conta deve ser temporariamente bloqueada.
-## 3. Regras de Negócio (RN)
